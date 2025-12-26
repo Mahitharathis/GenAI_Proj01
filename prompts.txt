@@ -1,0 +1,7 @@
+Given the following strategic plan document, extract and summarize the key objectives and action items. Present the results in a clear, structured format (such as a table or bullet points)
+
+what is the date mentioned in the healthcare report?
+
+Given the following document, extract and summarize all client transaction events, including the event date, event type, and amount. Present the results in a structured table format
+
+Given the following strategic plan document, extract and summarize the key objectives and action items. Present the results in a clear, structured format (such as a table or bullet points)

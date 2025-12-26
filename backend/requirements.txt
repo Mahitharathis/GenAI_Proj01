@@ -1,0 +1,27 @@
+# FastAPI Backend Requirements for RAG Application
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pydantic
+
+# LangChain Core and Extensions
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# Vector Database and Caching
+redis
+chromadb
+
+# Document Processing
+unstructured[all-docs]
+htmltabletomd==1.0.0
+PyPDF2
+
+# Additional AI/ML Dependencies
+openai
+tiktoken
