@@ -15,4 +15,4 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 
 {"topic":"example","author":"Mahitha"}
 
-setx OPENAI_API_KEY "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"
+setx OPENAI_API_KEY ""
